@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 03 22:07:39 UTC 2019
+bhas-qwerty.pom>=
+bhas-qwerty.war>=
+bhas-qwerty-sources.jar>=
